@@ -1,4 +1,6 @@
 # SaaS Customer Churn & Revenue Analysis Using SQL
+<img width="1317" height="733" alt="Screenshot 2026-09-19 164340" src="https://github.com/user-attachments/assets/96687a69-2a39-46c5-ba24-ff70f2ce8d50" />
+
 
 ## Project Overview
 
